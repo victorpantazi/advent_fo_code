@@ -1,2 +1,2 @@
-# advent_fo_code
+# advent_of_code
 https://adventofcode.com/
